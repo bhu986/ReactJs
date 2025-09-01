@@ -1,12 +1,64 @@
-# React + Vite
+🎬 Movie Watchlist App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React JS web application to explore trending movies, add them to a personal watchlist, filter by genre, and sort by ratings & popularity.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔥 Browse trending movies
 
-## Expanding the ESLint configuration
+➕ Add / ❌ Remove movies from your watchlist
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔍 Search & filter movies by genre
+
+⭐ Sort movies by ratings & popularity
+
+💾 Data persistence with localStorage
+
+🛠️ Tech Stack
+
+⚛️ React JS
+
+🎨 CSS / Tailwind (if you used Tailwind)
+
+🌐 React Router for navigation
+
+📸 Screenshots
+Home Page – Trending Movies
+
+Watchlist Page – Manage Your Movies
+
+📂 Project Setup
+
+Clone the repo:
+
+git clone https://github.com/your-username/movie-watchlist.git
+cd movie-watchlist
+
+
+Install dependencies:
+
+npm install
+
+
+Run the project:
+
+npm run dev
+
+🌟 Learning Outcomes
+
+Through this project, I practiced and implemented:
+
+React components, props & state
+
+React hooks (useState, useEffect)
+
+Conditional rendering
+
+Routing with React Router
+
+Local storage handling for persistence
+
+🎓 Acknowledgment
+
+This project was built as part of the React JS Free Course by Scaler Topics.
+
