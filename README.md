@@ -22,10 +22,12 @@ A React JS web application to explore trending movies, add them to a personal wa
 
 🌐 React Router for navigation
 
-📸 Screenshots
-Home Page – Trending Movies
+![Uploading Screenshot (154).png…]() => Home Page – Trending Movies
 
-Watchlist Page – Manage Your Movies
+![Uploading Screenshot (157).png…]()  => Home Page – Trending Movies
+
+![Uploading Screenshot (157).png…]() => Watchlist Page – Manage Your Movies
+
 
 📂 Project Setup
 
